@@ -6,7 +6,9 @@ namespace AdventOfCode2020CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Day1.Day1.GetPartOneAnswer());
+            Console.WriteLine(Day1.Day1.GetPartTwoAnswer());
+            Console.ReadLine();
         }
     }
 }
